@@ -1,5 +1,4 @@
-# Hi, I'm Sasha
+# Hi, I'm Sasha  
 
-Salesforce Implementation Consultant at Accrue  
-Learning full-stack (JavaScript, React, Node.js)  
-Building and sharing projects here.
+Salesforce Certified Professional | Learning full-stack development (JavaScript, React, Node.js)  
+Exploring automation, data, and user experience through hands-on projects.  
